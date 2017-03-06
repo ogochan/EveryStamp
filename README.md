@@ -14,3 +14,5 @@
 
 - Get source
 - Copy config.sample.h to config.h and Edit this. Get 'device UUID' from http://www.every-sense.com.
+=======
+# EveryStamp
